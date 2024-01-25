@@ -1,7 +1,7 @@
 name: upharm
-description: "A new Flutter package project."
+description: "유팜 공통 라이브러리 테스트"
 version: 0.0.1
-homepage:
+homepage: https://github.com/UB-daram2/flutter
 
 environment:
   sdk: '>=3.2.5 <4.0.0'
